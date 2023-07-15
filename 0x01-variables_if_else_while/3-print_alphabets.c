@@ -1,20 +1,26 @@
 #include <stdio.h>
 
-/* more headers goes there */
+#include <stdlib.h>
+
+#include <time.h>
+
 /**
  * main - main function
  *
- * Return: Always (Success)
+ * Return: Always 0 (Success)
  */
-/* betty style doc for function main goes there */
+
+
 int main(void)
+
 {
+
 	char low;
 
-	for (low = 'a'; low <= 'z'; low++);
+	for (low = 'a'; low <= 'z'; low++)
 	putchar(low);
 
-	for (low = 'A'; low <= 'Z'; low++);
+	for (low = 'A'; low <= 'Z'; low++)
 	putchar(low);
 	putchar('\n');
 
