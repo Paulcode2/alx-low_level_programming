@@ -4,7 +4,7 @@
  *
  * @s: the string to be reveresd
  *
- * Return: void 
+ * Return: void
  */
 
 
