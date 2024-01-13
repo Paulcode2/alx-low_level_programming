@@ -3,7 +3,6 @@
 #include <stdlib.h>
 
 /**
- *
  * main - prints the multiplication of two args
  * @argc: counter
  * @argv: vector
